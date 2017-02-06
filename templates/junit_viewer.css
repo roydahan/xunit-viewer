@@ -3,84 +3,84 @@ h1 {
 }
 
 .suite--failure {
-    color: #FFF;
-    background-color: #FF1717;
-    border-color: #FF1717;
+    color: #ED1515;
+    background-color: #FFFFFF;
+    border-color: #ED1515;
 }
 
 .suite--failure:focus,
 .suite--failure:hover {
-    color: #FFF;
-    background-color: #ED1515;
+    color: #ED1515;
+    background-color: #FFFFFF;
     border-color: #ED1515;
 }
 
 .suite--passed {
-    color: #FFF;
-    background-color: #0CAB37;
+    color: #0CAB37;
+    background-color: #FFFFFF;
     border-color: #0CAB37;
 }
 
 .suite--passed:focus,
 .suite--passed:hover {
-    color: #FFF;
-    background-color: #0B9C32;
+    color: #0CAB37;
+    background-color: #FFFFFF;
     border-color: #0B9C32;
 }
 
 .test--failure,
 .test--error {
-    color: #FFF;
-    background-color: #E50000;
-    border-color: #E50000;
+    color: #ED1515;
+    background-color: #FFFFFF;
+    border-color: #ED1515;
 }
 
 .test--failure:focus,
 .test--error:focus,
 .test--failure:hover,
 .test--error:hover {
-    color: #FFF;
-    background-color: #CC0000;
-    border-color: #CC0000;
+    color: #ED1515;
+    background-color: #FFFFFF;
+    border-color: #ED1515;
 }
 
 .test--passed {
-    color: #FFF;
-    background-color: #0DBD3D;
+    color: #0CAB37;
+    background-color: #FFFFFF;
     border-color: #0DBD3D;
 }
 
 .test--passed:focus,
 .test--passed:hover {
-    color: #FFF;
-    background-color: #0BA635;
+    color: #0CAB37;
+    background-color: #FFFFFF;
     border-color: #0BA635;
 }
 
 .test--skipped {
-    color: #FFF;
-    background-color: #C3D6E3;
-    border-color: #C3D6E3;
+    color: #B6B4BA;
+    background-color: #FFFFFF;
+    border-color: #B6B4BA;
 }
 
 .test--skipped:focus,
 .test--skipped:hover {
-    color: #FFF;
-    background-color: #BDCFDB;
-    border-color: #BDCFDB;
+    color: #B6B4BA;
+    background-color: #FFFFFF;
+    border-color: #B6B4BA;
 }
 
 .properties__title {
-    color: #FFF;
-    background-color: #B6B4BA;
+    color: #B6B4BA;
+    background-color: #FFFFFF;
     border-color: #B6B4BA;
 }
 
 .properties__title:focus,
 .properties__title:hover {
-    color: #FFF;
-    background-color: #A7A6AB;
-    border-color: #A7A6AB;
+    color: #B6B4BA;
+    background-color: #FFFFFF;
+    border-color: #B6B4BA;
 }
 
 .properties,
