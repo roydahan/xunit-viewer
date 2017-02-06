@@ -100,7 +100,8 @@ h1 {
     margin-top: -10px;
     border: 1px solid #bbb;
     border-radius: 0 0 4px 4px;
-    padding: 10px;
+    padding: 5px;
+    padding-left: 4%;
 }
 
 .properties__list th,
