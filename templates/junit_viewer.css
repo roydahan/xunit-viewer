@@ -47,7 +47,7 @@ h1 {
 .test--passed {
     color: #0CAB37;
     background-color: #FFFFFF;
-    border-color: #FFFFFF;
+    border-color: #0DBD3D;
 }
 
 .test--passed:focus,
@@ -60,7 +60,7 @@ h1 {
 .test--skipped {
     color: #B6B4BA;
     background-color: #FFFFFF;
-    border-color: #FFFFFF;
+    border-color: #B6B4BA;
 }
 
 .test--skipped:focus,
@@ -90,7 +90,7 @@ h1 {
     width: 96%;
     margin-left: 2%;
     margin-right: 2%;
-    margin-bottom: -10px;
+    margin-bottom: 10px;
 }
 
 .properties__list,
@@ -134,11 +134,11 @@ h1 {
 }
 
 .suite__contents {
-    margin: -10px 0 0 0;
+    margin: -10px 0 5px 0;
     border-radius: 0 0 4px 4px;
     border: 1px solid #bbb;
-    padding: 0px;
-    padding-top: 0px;
+    padding: 5px;
+    padding-top: 10px;
 }
 
 .flat {
